@@ -15,7 +15,7 @@ p{
 }
 
 section{
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
 
 .div-cls-1{
@@ -94,7 +94,15 @@ h2{
     padding-right: 20px;
 }
 
+/* 3rd Section */
 
+.r-container h2{
+    font-weight: 900;
+}
+.r-container{
+    text-align: center;
+    text-transform: capitalize;
+}
 
 
 
